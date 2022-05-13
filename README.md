@@ -8,9 +8,6 @@ Download document API:
 [Download JSON](swagger.json)
 
 
-
----
-
 ## Email dan Password Super Admin
 Email:
 ```sh
@@ -20,4 +17,3 @@ Password:
 ```sh
 superadmin
 ```
----
